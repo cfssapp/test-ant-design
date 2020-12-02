@@ -1,1 +1,18 @@
-# test-ant-design
+# test-antd-01
+
+py -3 -m venv venv 
+venv\Scripts\activate
+
+# 01 Umi JS
+
+npx @umijs/create-umi-app
+
+npm install
+
+npm start
+
+npm i @ant-design/pro-layout --save
+
+npm i @umijs/preset-react@1.7.0
+
+npm run-script build
