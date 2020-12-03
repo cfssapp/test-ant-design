@@ -19,3 +19,7 @@ npm run-script build
 
 # 02 Ant-Design-Pro
 
+npm create umi
+npm install
+npm start
+npm run build
